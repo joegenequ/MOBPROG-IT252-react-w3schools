@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello MOBPROG-IT252 World!</h1>
-      <h3>Joe Gene Quesada</h3>
+      <h3>Jayyrhen Micael</h3>
     </div>
   );
 }
