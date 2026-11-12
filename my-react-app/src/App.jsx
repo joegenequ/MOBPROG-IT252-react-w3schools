@@ -1,9 +1,9 @@
 function App() {
   return (
     <div className="App">
-      <h1>Hello MOBPROG-IT252 World!</h1>
+      <h1>Hello MOBPROG BSIT252</h1>
       <h2>Happy 2026 SoCITFest!</h2>
-      <h3>Joe Gene Quesada</h3>
+      <h3>Serge Angelo B. Oliquiano</h3>
     </div>
   );
 }
